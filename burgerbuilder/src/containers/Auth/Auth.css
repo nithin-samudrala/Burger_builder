@@ -1,0 +1,22 @@
+.auth{
+    width:80%;
+    text-align: center;
+    margin: auto;
+}
+@media(min-width:600px){
+    .auth{
+        width: 500px;
+    }
+}
+
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color:green;
+}

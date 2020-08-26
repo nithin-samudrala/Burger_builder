@@ -1,0 +1,16 @@
+.ordersummaryBtn{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+.can{
+    color: red;
+}
+.ord{
+    color: green;
+}

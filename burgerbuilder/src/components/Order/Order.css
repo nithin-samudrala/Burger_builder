@@ -1,0 +1,19 @@
+.order{
+    width:80%;
+    margin:10px auto;
+    padding: 10px;
+    position: relative;
+    border-bottom: 1px solid black;
+}
+.span{
+    display: block;
+    
+    /* float: left; */
+}
+
+.cost{
+    position: absolute;
+    top: 30px;
+    right: 10px;
+
+}

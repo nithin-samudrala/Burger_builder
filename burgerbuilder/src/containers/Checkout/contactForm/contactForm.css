@@ -1,0 +1,27 @@
+.form{
+    width:80%;
+    text-align: center;
+    margin: auto;
+}
+@media(min-width:600px){
+    .form{
+        width: 500px;
+    }
+
+}
+/* buttons */
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    color: green;
+}
+button:disabled{
+    color: white;
+    cursor: not-allowed;
+}
